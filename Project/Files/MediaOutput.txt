@@ -1,0 +1,476 @@
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=5, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Album [code=1234, title =34, number of copies=34, artist=42, songs=232]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Album [code=1234, title =34, number of copies=34, artist=42, songs=232]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Album [code=1234, title =34, number of copies=34, artist=42, songs=232]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Album [code=1234, title =34, number of copies=34, artist=42, songs=232]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=7, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=1, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+		 -Media Information- 		
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After PROCESSING:
+		 -Media Information- 		
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Game [code=c1, title =car, number of copies=4, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=4, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=0, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After ADDING TO CART:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+
+Media info in Data:
+After RETURNING:
+		 -Media Information- 		
+Movie [code=123, title =Harry Potter, number of copies=2, rating=DR]
+-----------------------
+Game [code=c1, title =car, number of copies=5, weight=4.56]
+-----------------------
+Album [code=rd1, title =Rolling in the deep, number of copies=5, artist=Adele, songs=hello, rolling in the deep]
+-----------------------
+Album [code=sd, title =Sth diff, number of copies=6, artist=Alan Walker, songs=Running out of roses, Not you]
+-----------------------
+Game [code=t1, title =Triangle, number of copies=1, weight=6.48]
+-----------------------
+
+

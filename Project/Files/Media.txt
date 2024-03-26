@@ -1,0 +1,5 @@
+Album: rd1 : Rolling in the deep: 5: Adele: hello, rolling in the deep
+Game: c1 : car: 5: 4.56
+Game: t1 : Triangle: 1: 6.48
+Album: sd : Sth diff: 6: Alan Walker: Running out of roses, Not you
+Movie: 123 : Harry Potter: 2: DR

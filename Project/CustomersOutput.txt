@@ -1,0 +1,41 @@
+		 -Customers' Information- 		
+Customer [id=123, name=Ansam Rihan, address=Betunia, number =6464, plan=UNLIMITED
+        , Rented Media =[sd]
+        , Media intrested in=[123b, c1, t1, sd, rd1]]
+-----------------------
+Customer [id=2, name=Nour Rihan, address=Ramallah, number =3737, plan=LIMITED
+        , Rented Media =[t1]
+        , Media intrested in=[rd1]]
+-----------------------
+Customer [id=5678, name=fhgjhkjlkl fv, address=fghkjl, number =546789, plan=LIMITED
+        , Rented Media =[]
+        , Media intrested in=[]]
+-----------------------
+
+		 -Customers' Information- 		
+Customer [id=123, name=Ansam Rihan, address=Betunia, number =6464, plan=UNLIMITED
+        , Rented Media =[sd]
+        , Media intrested in=[123b, c1, t1, sd, rd1]]
+-----------------------
+Customer [id=2, name=Nour Rihan, address=Ramallah, number =3737, plan=LIMITED
+        , Rented Media =[t1]
+        , Media intrested in=[rd1]]
+-----------------------
+Customer [id=5678, name=cvbn hg, address=fhgjkl, number =46578, plan=LIMITED
+        , Rented Media =[]
+        , Media intrested in=[]]
+-----------------------
+
+		 -Customers' Information- 		
+Customer [id=123, name=Ansam Rihan, address=Betunia, number =6464, plan=UNLIMITED
+        , Rented Media =[sd]
+        , Media intrested in=[123b, c1, t1, sd, rd1]]
+-----------------------
+Customer [id=123, name=gfhgjh, address=fhgjhjlk, number =457687899, plan=LIMITED
+        , Rented Media =[]
+        , Media intrested in=[]]
+-----------------------
+Customer [id=2, name=Nour Rihan, address=Ramallah, number =3737, plan=LIMITED
+        , Rented Media =[t1, sd]
+        , Media intrested in=[rd1]]
+-----------------------
